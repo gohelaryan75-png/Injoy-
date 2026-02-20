@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aryan | Digital</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #00c6ff, #0072ff, #8e2de2);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    margin-top: 60px;
+}
+
+img {
+    width: 120px;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0 0 20px white;
+}
+
+h2 {
+    margin-top: 15px;
+    font-size: 26px;
+}
+
+.bio {
+    margin-bottom: 30px;
+}
+
+.link-btn {
+    display: block;
+    width: 85%;
+    margin: 12px auto;
+    padding: 14px;
+    background: rgba(255,255,255,0.2);
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: bold;
+    backdrop-filter: blur(10px);
+    transition: 0.3s;
+}
+
+.link-btn:hover {
+    background: white;
+    color: #0072ff;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<img src="https://via.placeholder.com/120" alt="profile">
+
+<h2>ARYAN ⚡</h2>
+<p class="bio">Digital Creator | Positive Energy | Stay Real 🚀</p>
+
+<a href="https://instagram.com/yourusername" target="_blank" class="link-btn">📸 Instagram</a>
+<a href="https://youtube.com/@yourchannel" target="_blank" class="link-btn">🎥 YouTube</a>
+<a href="https://wa.me/91XXXXXXXXXX" target="_blank" class="link-btn">💬 WhatsApp</a>
+
+</div>
+
+</body>
+</html>
