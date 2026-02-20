@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aryan Official</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 50px;
+        }
+        .card{
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+            max-width: 400px;
+            margin: auto;
+        }
+        h1{
+            color: #333;
+        }
+        p{
+            color: #555;
+        }
+        .btn{
+            display: inline-block;
+            padding: 10px 20px;
+            background: black;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        .btn:hover{
+            background: #444;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>Aryan 👑</h1>
+    <p>I believe in Respect, Loyalty & Good Behaviour.</p>
+    <p>Focused on Goals | Learning Coding 💻</p>
+    <a href="https://instagram.com/" class="btn">Follow Me</a>
+</div>
+
+</body>
+</html>
